@@ -9,9 +9,9 @@ Este proyecto realiza un análisis de datos de ventas de cuatro tiendas con el o
 Si desear colaborar en el desarrollo de este proyecto, sin sobrescribir los cambios del proyecto original, realiza los siguientes pasos:
 
 1.	Clona este repositorio: 
-git clone https://github.com/luis811ux/CHALLENGE1_AluraStoreLatamgit
-2. Asegúrate de tener Python 3 instalado.
-3. Instala las bibliotecas necesarias: `pip install pandas y matplotlib`
+git clone https://github.com/luis811ux/alura-store-performance-analysis.git
+3. Asegúrate de tener Python 3 instalado.
+4. Instala las bibliotecas necesarias: `pip install pandas y matplotlib`
 
 
 ## Uso
